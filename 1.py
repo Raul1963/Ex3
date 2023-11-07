@@ -1,3 +1,4 @@
 import turtle
+import time
 turtle.forward(100)
-turtle.done()
+time.sleep(10)
